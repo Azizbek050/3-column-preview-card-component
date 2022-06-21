@@ -15,6 +15,7 @@ overflow-x: hidden;
 display: flex;
 justify-content: center;
 align-items: center;
+background: hsl(0, 0%, 95%);
 
 }
 
@@ -26,7 +27,7 @@ align-items: center;
   flex-wrap: wrap;
   border-radius: 1rem;
   overflow: hidden;
-  margin-top: 15vh;
+  margin-top: 20vh;
 }
 .preview_card_item{
   width: 30rem;
